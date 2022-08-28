@@ -1,8 +1,8 @@
 ---
 title: The performance hazards of  [[Prototype]] mutation
-slug: Web/JavaScript/The_performance_hazards_of_prototype_mutation
+slug: conflicting/Web/JavaScript/Reference/Global_Objects/Object/setPrototypeOf
 translation_of: Web/JavaScript/The_performance_hazards_of__[[Prototype]]_mutation
-original_slug: Web/JavaScript/The_performance_hazards_of__[[Prototype]]_mutation
+original_slug: Web/JavaScript/The_performance_hazards_of_prototype_mutation
 ---
 {{jsSidebar("Advanced")}}
 
