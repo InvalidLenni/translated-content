@@ -33,21 +33,11 @@ slug: Web/CSS/display-internal
 - `ruby-text-container` {{Experimental_Inline}}
   - : 这些元素的行为类似于[`<rtc>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/rtc)HTML 元素。
 
-## [浏览器兼容性](https://developer.mozilla.org/zh-CN/docs/Web/CSS/display-internal#Browser_compatibility)[编辑](https://developer.mozilla.org/en-US/docs/Web/CSS/display-internal$edit#Browser_compatibility)
+## 浏览器兼容性
 
-### 支持表值
+{{Compat}}
 
-`table`, `table-cell`, `table-column`, `table-column-group`, `table-footer-group`, `table-header-group`, `table-row`, and `table-row-group`
-
-{{Compat("css.properties.display.table_values", 10)}}
-
-### 支持 ruby 值
-
-`ruby`, `ruby-base`, `ruby-base-container`, `ruby-text`, and `ruby-text-container`
-
-{{Compat("css.properties.display.ruby_values", 10)}}
-
-## 另请参见
+## 参见
 
 - {{CSSxRef("display")}}
 
