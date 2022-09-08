@@ -1,12 +1,13 @@
 ---
 title: JavaScript shells 编程环境
-slug: Web/JavaScript/Shells
+slug: conflicting/Web/JavaScript/JavaScript_technologies_overview
 tags:
   - JavaScript
   - 工具
   - 扩展
   - 指南
 translation_of: Web/JavaScript/Shells
+original_slug: Web/JavaScript/Shells
 ---
 {{JsSidebar}}
 
