@@ -1571,10 +1571,6 @@
     "modified": "2019-06-30T04:47:58.467Z",
     "contributors": ["ch4zzzzz", "micblo"]
   },
-  "Glossary/jQuery": {
-    "modified": "2020-05-09T23:15:26.173Z",
-    "contributors": ["RainSlide", "yshaojun", "iigmir"]
-  },
   "Glossary/jpeg": {
     "modified": "2020-07-21T12:13:23.651Z",
     "contributors": ["wr20060926", "zhangchen", "micblo"]
@@ -10231,10 +10227,6 @@
   "Web/API/HTMLMediaElement/networkState": {
     "modified": "2019-03-23T22:03:28.345Z",
     "contributors": ["EmiliaMiyuki"]
-  },
-  "Web/API/HTMLMediaElement/onerror": {
-    "modified": "2020-10-15T22:20:09.423Z",
-    "contributors": ["HaukWong"]
   },
   "Web/API/HTMLMediaElement/pause": {
     "modified": "2020-10-15T22:29:04.236Z",
@@ -33552,6 +33544,10 @@
     "modified": "2020-10-15T22:18:22.501Z",
     "contributors": ["qiuguomuhai"]
   },
+  "conflicting/Web/API/HTMLMediaElement/error_event": {
+    "modified": "2020-10-15T22:20:09.423Z",
+    "contributors": ["HaukWong"]
+  },
   "conflicting/Web/API/HTMLMediaElement/loadeddata_event": {
     "modified": "2020-10-15T22:16:07.855Z",
     "contributors": ["chenqingyue"]
@@ -35138,6 +35134,10 @@
   "orphaned/Glossary/Dynamic_programming_language": {
     "modified": "2020-07-10T12:09:06.736Z",
     "contributors": ["JackyJnirvana", "RainSlide", "aimiy", "lukesomnus"]
+  },
+  "orphaned/Glossary/jQuery": {
+    "modified": "2020-05-09T23:15:26.173Z",
+    "contributors": ["RainSlide", "yshaojun", "iigmir"]
   },
   "orphaned/Glossary_of_translation": {
     "modified": "2019-03-23T23:33:18.884Z",
