@@ -1,6 +1,6 @@
 ---
 title: 空值合并运算符
-slug: Web/JavaScript/Reference/Operators/Nullish_coalescing_operator
+slug: Web/JavaScript/Reference/Operators/Nullish_coalescing
 tags:
   - '??'
   - JavaScript
@@ -9,7 +9,9 @@ tags:
   - 空值合并操作符
   - 运算符
 translation_of: Web/JavaScript/Reference/Operators/Nullish_coalescing_operator
+original_slug: Web/JavaScript/Reference/Operators/Nullish_coalescing_operator
 ---
+
 {{JSSidebar("Operators")}}
 
 **空值合并操作符**（**`??`**）是一个逻辑操作符，当左侧的操作数为 {{jsxref("null")}} 或者 {{jsxref("undefined")}} 时，返回其右侧操作数，否则返回左侧操作数。
