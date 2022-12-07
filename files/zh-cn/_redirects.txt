@@ -2257,8 +2257,10 @@
 /zh-CN/docs/Web/Guide/HTML/Canvas_tutorial/Pixel_manipulation_with_canvas	/zh-CN/docs/Web/API/Canvas_API/Tutorial/Pixel_manipulation_with_canvas
 /zh-CN/docs/Web/Guide/HTML/Canvas_tutorial/Transformations	/zh-CN/docs/Web/API/Canvas_API/Tutorial/Transformations
 /zh-CN/docs/Web/Guide/HTML/Canvas_tutorial/Using_images	/zh-CN/docs/Web/API/Canvas_API/Tutorial/Using_images
+/zh-CN/docs/Web/Guide/HTML/Constraint_validation	/zh-CN/docs/Web/HTML/Constraint_validation
 /zh-CN/docs/Web/Guide/HTML/Content_Editable	/zh-CN/docs/conflicting/Web/HTML/Global_attributes/contenteditable
 /zh-CN/docs/Web/Guide/HTML/Content_Editable/Rich-Text_Editing_in_Mozilla	/zh-CN/docs/orphaned/Web/Guide/HTML/Editable_content/Rich-Text_Editing_in_Mozilla
+/zh-CN/docs/Web/Guide/HTML/Content_categories	/zh-CN/docs/Web/HTML/Content_categories
 /zh-CN/docs/Web/Guide/HTML/Editable_content	/zh-CN/docs/conflicting/Web/HTML/Global_attributes/contenteditable
 /zh-CN/docs/Web/Guide/HTML/Editable_content/Rich-Text_Editing_in_Mozilla	/zh-CN/docs/orphaned/Web/Guide/HTML/Editable_content/Rich-Text_Editing_in_Mozilla
 /zh-CN/docs/Web/Guide/HTML/Forms	/zh-CN/docs/Learn/Forms
@@ -2437,6 +2439,7 @@
 /zh-CN/docs/Web/JavaScript/Reference/Global_Objects/ArrayBufferView	/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
 /zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Boolean/toSource	/zh-CN/docs/conflicting/Web/JavaScript/Reference/Global_Objects/Boolean/toString
 /zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Collator	/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Intl/Collator
+/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Date/toGMTString	/zh-CN/docs/conflicting/Web/JavaScript/Reference/Global_Objects/Date/toUTCString
 /zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Date/toSource	/zh-CN/docs/conflicting/Web/JavaScript/Reference/Global_Objects/Date/toString
 /zh-CN/docs/Web/JavaScript/Reference/Global_Objects/DateTimeFormat	/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat
 /zh-CN/docs/Web/JavaScript/Reference/Global_Objects/DisplayNames	/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Intl/DisplayNames
